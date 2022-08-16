@@ -3,3 +3,5 @@
 This project is a test project to demo git.
 
 Hello World!
+
+Adds a hello world function.
